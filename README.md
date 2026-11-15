@@ -223,9 +223,3 @@ All 24 unit tests pass without requiring a GPU or camera device.
 - **Evaluation of Accuracy and Limitations:** Documented with metrics, threshold sweeps, and stress-test failure modes.
 - **Tech Stack:** Python, OpenCV (YuNet + SFace), SQLite3, Pandas.
 
----
-
-## Author
-
-Rohan Saini  
-GitHub: [rohansaini-02](https://github.com/rohansaini-02)
